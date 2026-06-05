@@ -317,7 +317,7 @@ Este proyecto es de código abierto. Libre para uso educativo y personal.
 
 ## Autor
 
-Desarrollado como herramienta de análisis de audio y visualización artística.
+Desarrollado por Josep Oliver como herramienta de análisis de audio y visualización artística.
 
 ---
 
