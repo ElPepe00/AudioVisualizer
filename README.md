@@ -60,7 +60,7 @@ soundcard >= 0.4.6
 
 ### 1. Clonar o descargar el proyecto
 ```bash
-cd visualizer_spotify
+cd AudioVisualizer
 ```
 
 ### 2. Crear un entorno virtual (recomendado)
